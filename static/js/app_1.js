@@ -1,4 +1,4 @@
-// from data.js
+// import the data from data.js
 const tableData = data;
 // get table references
 var tbody = d3.select("tbody");
