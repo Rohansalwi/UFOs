@@ -1,8 +1,7 @@
 # UFOs
-UFO Sightings with JavaScript
+UFO Sightings data population using JavaScript
 
 ### Purpose
-Explain the strengths and weaknesses of JavaScript "standard" and JavaScript version ES6+.
 Describe JavaScript syntax and ideal use cases.
 Build and deploy JavaScript functions, including built-in functions.
 Convert JavaScript functions to arrow functions.
@@ -10,7 +9,7 @@ Build and deploy forEach (JavaScript for loop).
 Create, populate, and dynamically filter a table using JavaScript and HTML
 
 ### Overview
-The request from a client was to display a table organizing UFO data stored as a JavaScript array. The client wanted the ability to filter by multiple criteria creating a dynamic website. The table was created using JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website.
+The client requested to display a table organizing UFO data stored as a JavaScript file. The client wanted the ability to filter by multiple criteria creating a dynamic website. The table was created using JavaScript, while HTML/CSS and Bootstrap were used to modify the aesthetics of the website.
 
 ### Results:
 Welcome to UFO Sightings!
